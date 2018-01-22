@@ -14,9 +14,6 @@ Implementar um TODO List completo (CRUD) em .Net 4.5 utilizando Frontend Web (qu
 
 Assim conseguimos ter uma baixo acoplamento entre o back-end e o front-end.
 
-Link para vídeo com demonstração:
-
-
 [Link para vídeo com demonstração](https://www.youtube.com/watch?v=eecSO9dBMPo)
 
 Qualquer dúvida entrar em contato: rodrigobmuniz@gmail.com
